@@ -2,15 +2,15 @@ disabled = false
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "Blowfish"
+title = "Lukas Scarfe"
 
 [params]
   displayName = "EN"
   isoCode = "en"
   rtl = false
   dateFormat = "2 January 2006"
-  # logo = "img/logo.png"
-  # secondaryLogo = "img/secondary-logo.png"
+  logo = "img/logo2.png"
+  secondaryLogo = "img/logo2.png"
   # description = "My awesome website"
   # copyright = "Copy, _right?_ :thinking_face:"
 
@@ -19,7 +19,7 @@ title = "Blowfish"
   email = "lukasscarfe@gmail.com"
   image = "img/Lukas_Scarfe_Headshot_small.png"
   imageQuality = 96
-  headline = "I'm only human"
+  headline = "B. Eng in Engineering Physics, M. Sc in Physics"
   bio = "Lukas Scarfe PhD Student in Physics at the University of Ottawa. Researcher at the Structured Quantum Optics (SQO) group specializing in Quantum Key Distribution (QKD) and adaptive optics."
   links = [
     { email = "mailto:lukasscarfe+website@gmail.com" },

@@ -4,6 +4,42 @@
 
   <url>
     <loc>http://localhost:1313/</loc>
+    <lastmod>2026-01-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/research/fast-ao/</loc>
+    <lastmod>2026-01-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/research/turbulence-prediction/</loc>
+    <lastmod>2026-01-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/plants/</loc>
+    <lastmod>2026-01-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/research/</loc>
+    <lastmod>2026-01-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/plants/tradescantia-nanouk/</loc>
+    <lastmod>2026-01-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/cv/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
