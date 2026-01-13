@@ -2,7 +2,7 @@ name: Deploy Hugo site to Pages
 
 on:
   push:
-    branches: ["main"] # Pushes to main trigger the build
+    branches: ["master"] # Pushes to main trigger the build
   workflow_dispatch: # Allows you to manually trigger it
 
 permissions:
