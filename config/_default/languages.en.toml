@@ -20,7 +20,7 @@ title = "Lukas Scarfe"
   image = "img/Lukas_Scarfe_Headshot_small.png"
   imageQuality = 96
   headline = "B. Eng in Engineering Physics, M. Sc in Physics"
-  bio = "Lukas Scarfe PhD Student in Physics at the University of Ottawa. Researcher at the Structured Quantum Optics (SQO) group specializing in Quantum Key Distribution (QKD) and adaptive optics."
+  bio = "Lukas Scarfe PhD Student in Physics at the University of Ottawa. Researcher at the Structured Quantum Optics group specializing in Quantum Key Distribution and adaptive optics."
   links = [
     { email = "mailto:lukasscarfe+website@gmail.com" },
     { "google-scholar" = "https://scholar.google.com/citations?user=_eBW18oAAAAJ&hl=en&oi=ao" },
