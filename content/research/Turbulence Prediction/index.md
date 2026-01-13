@@ -2,7 +2,9 @@
 title: "Monstera Deliciosa"
 date: 2026-01-12
 summary: "My favorite tropical plant, currently living in the living room."
-showDate: true
+showAuthor: false
+showDate: false
+showReadingTime: false
 ---
 
 ### Update: January 12, 2026

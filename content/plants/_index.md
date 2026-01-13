@@ -1,4 +1,0 @@
----
-title: "Plants"
-draft: false
----

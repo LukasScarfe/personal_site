@@ -16,14 +16,19 @@
   weight = 1
 
 [[main]]
-  name = "Plant Tracking"
+  name = "Plants"
   pageRef = "/plants"
   weight = 2
 
 [[main]]
-  name = "CV"
-  url = "/cv"
-  weight = -1
+  name = "Reading List"
+  pageRef = "/reading"
+  weight = 3
+
+# [[main]]
+#   name = "CV"
+#   url = "/cv"
+#   weight = -1
 
 #[[main]]
 #  name = "example sub-menu 1"
