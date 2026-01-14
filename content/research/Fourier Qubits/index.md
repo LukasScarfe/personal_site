@@ -1,7 +1,7 @@
 ---
 title: "High-dimensional quantum key distribution with Qubit-like states"
 date: 2025-11-25
-summary: "We introduced 'Fourier-qubits,' a new class of high-dimensional quantum states that simplify the complexity of secure communication while maintaining high data rates and noise resistance."
+summary: "The research paper titled \"High-dimensional quantum key distribution with qubit-like states\" introduces a novel protocol for high-dimensional quantum key distribution (HD-QKD) that utilizes a new class of states called Fourier-qubits, or F-qubits, to enhance the efficiency and noise tolerance of quantum communications. Traditional HD-QKD protocols often rely on mutually unbiased bases (MUBs), where the secondary basis consists of balanced superpositions of all possible states in the logical basis, which can be technically challenging to implement and detect with high efficiency in certain degrees of freedom like orbital angular momentum (OAM). In this study, the authors propose replacing the traditional Fourier basis with F-qubits, which are qubit-like states formed by superpositions of only two logical states at a time with specific phase relationships derived from the roots of unity. This approach moves away from the requirement of full mutual unbiasedness while still providing a rigorous bound on the information leaked to a potential eavesdropper, thereby maintaining the security of the quantum channel. The researchers experimentally validated their protocol using a four-dimensional system based on the OAM degree of freedom of light, subjecting the signal to a noisy environment simulated by a turbulent cell and utilizing adaptive optics for correction. A key advantage of the F-qubit basis is its superior detection efficiency; because these states have a larger spatial intensity distribution compared to traditional MUB states, they utilize more of the active area of spatial light modulators, leading to higher signal-to-noise ratios. Their experimental results demonstrate that the F-qubit protocol can achieve high secret-key rates, with a calculated sifted key rate of 1.28 bits per photon in a noisy channel, and show that the phase error rate remains manageable even under adverse conditions. Furthermore, the F-qubit basis is overcomplete, containing more states than the standard BB84 protocol, which provides a more robust framework for error detection and characterization in high-dimensional systems. The study concludes that this qubit-like state approach significantly simplifies the preparation and detection stages of HD-QKD without sacrificing the inherent benefits of high-dimensional encoding, such as increased information capacity and higher tolerance to channel noise. By demonstrating a practical and efficient alternative to MUBs, the paper provides a feasible pathway for scaling quantum communication networks using various degrees of freedom, including time-bins and OAM, which are essential for future global-scale quantum secure communications and the development of a quantum internet. This work highlights how tailored state preparation can overcome traditional hardware limitations, offering a versatile tool for enhancing the performance of quantum cryptographic systems in real-world, noisy environments."
 showAuthor: false
 showDate: true
 showReadingTime: false
@@ -10,7 +10,14 @@ showWordCount: false
 
 {{< katex >}}
 
-## [**Click here for the full manuscript published in Communications Physics**](https://doi.org/10.1038/s42005-025-02376-8)
+{{< dynamic-img 
+    light="https://raw.githubusercontent.com/LukasScarfe/Google-Scholar/refs/heads/master/plots/light/Highdimensional_quantum_key_distribution_with.png"
+    dark="https://raw.githubusercontent.com/LukasScarfe/Google-Scholar/refs/heads/master/plots/dark/Highdimensional_quantum_key_distribution_with.png"
+    alt="Citation Count"
+    caption=" [Source](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_eBW18oAAAAJ&citation_for_view=_eBW18oAAAAJ:Y0pCki6q_DkC)" 
+>}}
+
+## [**Click here for the full manuscript published in Communications Physics**](https://www.nature.com/articles/s42005-025-02376-8)
 
 While Quantum Key Distribution (QKD) is theoretically secure, moving from theory to the real world is difficult. My recent research focuses on bridging the gap between high-dimensional protocols—which can carry more information per photon—and the technical simplicity required for practical, commercial hardware. We achieve this by using "qubit-like" states in a high-dimensional space, which we call **Fourier-qubits (F-qubits)**.
 

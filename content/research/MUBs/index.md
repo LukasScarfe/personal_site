@@ -6,6 +6,7 @@ showAuthor: false
 showDate: true
 showReadingTime: false
 showWordCount: false
+draft: true
 ---
 
 {{< katex >}}
