@@ -3,7 +3,7 @@ title: "Fast adaptive optics for high-dimensional quantum communications in turb
 date: 2025-02-24
 summary: "In this work, we showed that the use of a fast adaptive optics system in a high-dimensional quantum key distribution setup allows for secure communications even in the presence of significant noise ."
 showAuthor: false
-showDate: false
+showDate: true
 showReadingTime: false
 showWordCount: false
 ---
@@ -48,5 +48,6 @@ This work proves that advanced adaptive optics can effectively mitigate the "sme
 
 ---
 
-The following is a seminar where I talk about this work along with many others from the SQO research group.
+
 {{<youtubeLite id="cRAmVcGRbr0"  label="HTSN Seminar Presentation">}}
+A seminar where I talk about this work along with many others from the SQO research group.

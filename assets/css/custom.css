@@ -1,0 +1,45 @@
+/* assets/css/custom.css */
+.book-container {
+    margin: 2rem auto;
+    text-align: center;
+}
+
+.book-wrapper {
+    position: relative;
+    transition: transform 0.3s ease;
+    line-height: 0;
+    display: inline-block; 
+}
+
+.book-wrapper:hover {
+    transform: scale(1.02) translateY(-5px);
+}
+
+.book-image {
+    width: 100%;
+    height: auto;
+    border-radius: 2px; /* Subtle rounding for the corners */
+}
+
+
+/* Isolated Nanouk Styling */
+.nanouk-timeline .timeline-item-icon {
+    border-color: #e2a0b4 !important; /* Nanouk Pink */
+    background-color: #fdf2f8 !important; /* Light Pink Wash */
+    color: #7e22ce !important; /* Purple leaf underside */
+}
+
+.nanouk-timeline .timeline-line {
+    background-color: #f9a8d4 !important; 
+}
+
+.nanouk-timeline .timeline-item-badge {
+    background-color: #e2a0b4 !important;
+    color: white !important;
+}
+
+/* Dark mode adjustments */
+.dark .nanouk-timeline .timeline-item-icon {
+    background-color: #4c1d95 !important;
+    color: #f9a8d4 !important;
+}

@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Lukas Scarfe</title>
+    <title>Home on Lukas Scarfe</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on Lukas Scarfe</description>
+    <description>Recent content in Home on Lukas Scarfe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>lukasscarfe@gmail.com (Lukas Scarfe)</managingEditor>
     <webMaster>lukasscarfe@gmail.com (Lukas Scarfe)</webMaster>
     <copyright>© 2026 Lukas Scarfe</copyright>
-    <lastBuildDate>Mon, 12 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 25 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Monstera Deliciosa</title>
-      <link>http://localhost:1313/research/turbulence-prediction/</link>
-      <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
+      <title>High-dimensional quantum key distribution with Qubit-like states</title>
+      <link>http://localhost:1313/research/fourier-qubits/</link>
+      <pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate>
       <author>lukasscarfe@gmail.com (Lukas Scarfe)</author>
-      <guid>http://localhost:1313/research/turbulence-prediction/</guid>
-      <description>My favorite tropical plant, currently living in the living room.</description>
+      <guid>http://localhost:1313/research/fourier-qubits/</guid>
+      <description>We introduced &amp;lsquo;Fourier-qubits,&amp;rsquo; a new class of high-dimensional quantum states that simplify the complexity of secure communication while maintaining high data rates and noise resistance.</description>
       
     </item>
     
     <item>
-      <title>Tradescantia Nanouk</title>
-      <link>http://localhost:1313/plants/tradescantia-nanouk/</link>
-      <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
+      <title>Predicting atmospheric turbulence for secure quantum communications in free space</title>
+      <link>http://localhost:1313/research/turbulence-prediction/</link>
+      <pubDate>Mon, 03 Mar 2025 00:00:00 +0000</pubDate>
       <author>lukasscarfe@gmail.com (Lukas Scarfe)</author>
-      <guid>http://localhost:1313/plants/tradescantia-nanouk/</guid>
-      <description>My favorite tropical plant, currently living in the living room.</description>
+      <guid>http://localhost:1313/research/turbulence-prediction/</guid>
+      <description>We developed TAROQQO, a recurrent neural network that predicts atmospheric turbulence strength up to 12 hours in advance to optimize the timing of secure quantum key distribution.</description>
       
     </item>
     
@@ -38,6 +38,26 @@
       <author>lukasscarfe@gmail.com (Lukas Scarfe)</author>
       <guid>http://localhost:1313/research/fast-ao/</guid>
       <description>In this work, we showed that the use of a fast adaptive optics system in a high-dimensional quantum key distribution setup allows for secure communications even in the presence of significant noise .</description>
+      
+    </item>
+    
+    <item>
+      <title>Reading List</title>
+      <link>http://localhost:1313/reading/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>lukasscarfe@gmail.com (Lukas Scarfe)</author>
+      <guid>http://localhost:1313/reading/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Tradescantia Nanouk</title>
+      <link>http://localhost:1313/plants/tradescantia-nanouk/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>lukasscarfe@gmail.com (Lukas Scarfe)</author>
+      <guid>http://localhost:1313/plants/tradescantia-nanouk/</guid>
+      <description>This thing is hard to kill, it is very easily chopped up and propagated directly back into soil.</description>
       
     </item>
     

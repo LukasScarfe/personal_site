@@ -1,0 +1,14 @@
+{{ $width := .Get "width" | default "250px" }}
+<figure class="book-container" style="max-width: {{ $width | safeCSS }}">
+  <div class="book-wrapper">
+    <img 
+      src="{{ .Get "src" }}" 
+      alt="{{ .Get "alt" }}" 
+      class="book-image"
+      loading="lazy"
+    >
+  </div>
+  {{ with .Get "caption" }}
+    <figcaption class="mt-4 text-sm italic text-neutral-500">{{ . }}</figcaption>
+  {{ end }}
+</figure>

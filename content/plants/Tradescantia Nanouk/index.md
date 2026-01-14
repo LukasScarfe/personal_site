@@ -1,18 +1,28 @@
 ---
 title: "Tradescantia Nanouk"
-date: 2026-01-12
-summary: "My favorite tropical plant, currently living in the living room."
-showDate: true
+summary: "This thing is hard to kill, it is very easily chopped up and propagated directly back into soil."
+showDate: false
+showReadingTime: false
+draft: false
+showAuthor: false
+showWordCount: false
 ---
 
-### Update: January 12, 2026
-We just repotted it today! The roots were looking a bit crowded, so we moved it to a 12-inch terracotta pot.
+This thing is hard to kill, it is very easily chopped up and propagated directly back into soil. The leaves get brown and crispy if they are touched with water or if it is even too humid.
 
-{{< figure src="photo-jan.jpg" alt="Monstera in new pot" caption="Freshly repotted!" >}}
+## Growth Timeline
 
----
 
-### Update: February 20, 2026
-A new leaf is finally unfurling. It has great fenestrations.
+{{< timeline >}}
 
-{{< figure src="photo-feb.jpg" alt="New leaf unfurling" caption="The new growth is so bright green." >}}
+  {{< timelineItem header="January 2026" >}}
+  
+  {{< figure 
+      src="img/2026-01-13.jpg" 
+      alt="Tradescantia Nanouk in a green pot" 
+      caption="Some bronw and cripy" 
+      width="300px" 
+  >}}
+  {{< /timelineItem >}}
+  
+{{< /timeline >}}

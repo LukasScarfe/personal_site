@@ -1,6 +1,6 @@
 ---
 title: "Research"
-layout: "page"
+layout: "basic"
 showDate: false
 showReadingTime: false
 draft: false
