@@ -23,12 +23,12 @@
     
     <item>
       <title>Predicting atmospheric turbulence for secure quantum communications in free space</title>
-      <link>http://localhost:1313/research/turbulence-prediction/taroqqo/</link>
+      <link>http://localhost:1313/research/turbulence-prediction/</link>
       <pubDate>Mon, 03 Mar 2025 00:00:00 +0000</pubDate>
       <author>lukasscarfe@gmail.com (Lukas Scarfe)</author>
-      <guid>http://localhost:1313/research/turbulence-prediction/taroqqo/</guid>
+      <guid>http://localhost:1313/research/turbulence-prediction/</guid>
       <description>We developed &lt;strong&gt;TAROQQO&lt;/strong&gt;, a recurrent neural network that predicts atmospheric turbulence strength up to 12 hours in advance to optimize the timing of secure quantum key distribution.</description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/research/turbulence-prediction/featured_taroqqo.png" />
     </item>
     
     <item>
