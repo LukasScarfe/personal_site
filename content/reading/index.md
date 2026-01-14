@@ -31,7 +31,7 @@ Here is what I am currently reading and what I have read.
     src="https://m.media-amazon.com/images/I/91XIiAE2EJL._SY385_.jpg?format=250w" 
     alt="Emily Wilson's Iliad Cover" 
     width="250px"
-    caption="The Iliad, translated by Emily Wilson"
+    caption="The Landmark Julius Caesar, from the Landmark Series"
 >}}
 {icon="fasces"}
 
