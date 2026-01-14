@@ -5,8 +5,9 @@
 # Refer to the theme docs for more details about each of these parameters.
 # https://blowfish.page/docs/configuration/#theme-parameters
 
+colorScheme = "dark_light"
 #colorScheme = "dark_green"
-colorScheme = "output"
+#colorScheme = "output"
 defaultAppearance = "dark" # valid options: light or dark
 autoSwitchAppearance = false
 
