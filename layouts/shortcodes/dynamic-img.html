@@ -12,7 +12,9 @@
        alt="{{ $alt }}" 
        class="hidden dark:block mx-auto">
 
-  {{ with $caption }}
-    <figcaption class="mt-2 text-sm text-center text-neutral-500">{{ . }}</figcaption>
+  {{ with .Get "caption" }}
+    <figcaption class="mt-2 text-sm text-left text-neutral-500 w-full">
+      {{ . | markdownify }}
+    </figcaption>
   {{ end }}
 </figure>

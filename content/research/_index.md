@@ -19,5 +19,5 @@ Thank you for your interest in my research. I mostly do research regarding quant
     light="https://raw.githubusercontent.com/LukasScarfe/Google-Scholar/refs/heads/master/plots/light/total_citations.png"
     dark="https://raw.githubusercontent.com/LukasScarfe/Google-Scholar/refs/heads/master/plots/dark/total_citations.png"
     alt="Quantum Key Distribution Experimental Setup"
-    caption="Fig 1: Schematic of the experimental setup for high-dimensional QKD." 
+    caption="**My Cumulative citations** since I started tracking them. I know that citations are not indicative of good science or a good scientist but it feels validating to be cited. It is reassuring to think that someone believes that my work is worth reading and talking about. [Source](https://scholar.google.com/citations?user=_eBW18oAAAAJ&hl=en&oi=ao)" 
 >}}
