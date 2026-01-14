@@ -13,17 +13,27 @@
 [[main]]
   name = "Research"
   pageRef = "/research"
-  weight = 1
+  weight = 100
 
+[[main]]
+  name = "Hobbies"
+  identifier = "hobbies"
+  url = "#"
+  weight = 200
+
+# Child Item: Plants
 [[main]]
   name = "Plants"
-  pageRef = "/plants"
-  weight = 2
+  parent = "hobbies"
+  url = "plants"
+  weight = 100
 
+# Child Item: Books
 [[main]]
   name = "Reading List"
-  pageRef = "/reading"
-  weight = 3
+  parent = "hobbies"
+  url = "/reading"
+  weight = 200
 
 # [[main]]
 #   name = "CV"
