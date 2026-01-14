@@ -1,7 +1,7 @@
 ---
 title: "Predicting atmospheric turbulence for secure quantum communications in free space"
 date: 2025-03-03
-summary: "We developed TAROQQO, a recurrent neural network that predicts atmospheric turbulence strength up to 12 hours in advance to optimize the timing of secure quantum key distribution."
+summary: "We developed **TAROQQO**, a recurrent neural network that predicts atmospheric turbulence strength up to 12 hours in advance to optimize the timing of secure quantum key distribution."
 showAuthor: false
 showDate: true
 showReadingTime: false
@@ -15,7 +15,7 @@ showWordCount: false
 My work in the [SQO Group](https://sqogroup.ca/) led me to want to know if we could "see into the future" so that we could know whether or not we should do experiments on a given day. While previous work focused on cleaning up signals in real-time, this research introduces **TAROQQO**, a computational toolbox designed to predict when the atmosphere will be calm enough to establish a quantum key distribution channel in the first place.
 
 ## The Challenge: The Chaotic Atmosphere
-Atmospheric turbulence is the primary obstacle for free-space quantum networks. Changes in the refractive index of air cause optical signals to experience scintillation, beam wander, and wavefront distortion. These effects are quantified by the structure parameter $C_{n}^{2}$.
+Atmospheric turbulence is the primary obstacle for free-space quantum networks. Changes in the refractive index of air cause optical signals to experience scintillation, beam wander, and wavefront distortion. These effects are quantified by the structure parameter \(C_{n}^{2}\).
 
 
 {{<youtubeLite id="csqH3pNtFcI"  label="SQO Free Space Link">}}
@@ -25,7 +25,7 @@ Atmospheric turbulence is the primary obstacle for free-space quantum networks. 
 In high-dimensional Quantum Key Distribution (QKD), where we use the spatial shape of light (like Orbital Angular Momentum) to send more data, even moderate turbulence can scramble the signal so much that the **Quantum Dit Error Rate (QDER)** exceeds the security threshold. Knowing the turbulence strength in advance allows us to route communications through the best available channels and avoid wasting resources during "bad weather" for quantum states.
 
 ## TAROQQO: Forecasting Turbulence
-We trained a **Gated Recurrent Unit (GRU)** neural network, which we named **TAROQQO** (after the Italian word for tarot cards), to forecast the evolution of $C_{n}^{2}$ values.
+We trained a **Gated Recurrent Unit (GRU)** neural network, which we named **TAROQQO** (after the Italian word for tarot cards), to forecast the evolution of \(C_{n}^{2}\) values.
 
 ### Data Collection
 The network was trained on a massive dataset collected over **9 months** for a **5.4 km intra-city link** across the City of Ottawa. 
@@ -35,7 +35,7 @@ The network was trained on a massive dataset collected over **9 months** for a *
 
 
 ### Predictability
-TAROQQO can output predictions up to **12 hours into the future** with a time resolution as fine as one minute. In our testing (using data from February and March 2024), the network achieved an average relative error of only **9%** on the actual $C_{n}^{2}$ values. Even during highly variable months like October, the network remained robust with approximately 20% error
+**TAROQQO** can output predictions up to **12 hours into the future** with a time resolution as fine as one minute. In our testing (using data from February and March 2024), the network achieved a low averade deviation when comparing the predictions to the actual measured values. It is hard to quantify exactly, but if you look at the below plot, you can very nicely qualitatively see how well **TAROQQO** is working
 {{< figure
     src="/img/predictions.png"
     alt="Predictions on one test set"
@@ -49,23 +49,23 @@ To prove the utility of these predictions, we simulated an **8-dimensional BB84 
 
 
 ### Key Findings
-* **Security Thresholds:** We confirmed that secure communication is only guaranteed in the weak-turbulence regime ($C_{n}^{2} \approx 10^{-16}$). In strong turbulence ($C_{n}^{2} \approx 10^{-14}$), the error rates are too high for security.
-* **Basis Robustness:** Interestingly, our simulations showed that the **ANGLE basis** is more robust than the OAM basis during moderate turbulence because it concentrates optical power in a smaller region.
-* **Informed Decisions:** By combining TAROQQO's forecast with these simulations, a quantum network controller can predict the success rate of a key exchange before it even begins.
+* **Security Thresholds:** We confirmed that based on our experimental parameters, secure communication is only guaranteed in the weak-turbulence regime \(C_{n}^{2} \approx 10^{-16}\). In strong turbulence \(C_{n}^{2} \approx 10^{-14}\), the error rates are too high for security.
+* **Basis Robustness:** Interestingly, our simulations showed that the **ANGLE basis** is more robust than the OAM basis during moderate turbulence because it concentrates optical power in a smaller region. [This actaully confirms a secondary finding of a previous experiment]({{< ref "/research/Fast AO/index.md/#Key Results" >}})
+* **Informed Decisions:** By combining **TAROQQO**'s forecast with these simulations, a quantum network controller can predict the success rate of a key exchange before it even begins.
 
-| Turbulence ($C_{n}^{2}$) | OAM QDER | ANG QDER | Key Rate (bits/photon) |
+| Turbulence (\(C_{n}^{2}\)) | OAM QDER | ANG QDER | Key Rate (bits/photon) |
 | :--- | :--- | :--- | :--- |
 | $10^{-16}$ (Weak) | 8.18% | 2.33% | 2.11 |
 | $10^{-15}$ (Moderate) | 77.00% | 41.47% | 0 |
 | $10^{-14}$ (Strong) | 92.07% | 51.96% | 0 |
 
 ## Conclusion
-TAROQQO provides a crucial validation step for near-term QKD experiments. By predicting the "quantum weather," we can optimize the use of time and resources, avoiding unfavorable conditions and ensuring that secure keys are only exchanged when the channel is reliable. This is a vital step toward practical ground-to-ground and ground-to-satellite quantum communication networks.
+**TAROQQO** provides a crucial validation step for near-term QKD experiments. By predicting the "quantum weather," we can optimize the use of time and resources, avoiding unfavorable conditions and ensuring that secure keys are only exchanged when the channel is reliable. This is a vital step toward practical ground-to-ground and ground-to-satellite quantum communication networks.
 
 {{< figure
     src="https://raw.github.com/TareqJ1000/TAROQQO/tareq/TaroccoAI.png"
-    alt="TAROQQO Tarot Card cover art"
-    caption="TAROQQO Tarot Card cover art"
+    alt="**TAROQQO** Tarot Card cover art"
+    caption="**TAROQQO** Tarot Card cover art"
     >}}
 
 ---

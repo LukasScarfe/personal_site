@@ -21,7 +21,7 @@
 
   
   
-    <meta name="description" content="We developed TAROQQO, a recurrent neural network that predicts atmospheric turbulence strength up to 12 hours in advance to optimize the timing of secure quantum key distribution.">
+    <meta name="description" content="We developed **TAROQQO**, a recurrent neural network that predicts atmospheric turbulence strength up to 12 hours in advance to optimize the timing of secure quantum key distribution.">
   
   
   
@@ -412,7 +412,7 @@
     
     
     "mainEntityOfPage": "true",
-    "wordCount": "732"
+    "wordCount": "758"
   }]
   </script>
 
@@ -850,7 +850,7 @@
     </span>
     
 </h2>
-<p>Atmospheric turbulence is the primary obstacle for free-space quantum networks. Changes in the refractive index of air cause optical signals to experience scintillation, beam wander, and wavefront distortion. These effects are quantified by the structure parameter $C_{n}^{2}$.</p>
+<p>Atmospheric turbulence is the primary obstacle for free-space quantum networks. Changes in the refractive index of air cause optical signals to experience scintillation, beam wander, and wavefront distortion. These effects are quantified by the structure parameter \(C_{n}^{2}\).</p>
 <p><lite-youtube videoid="csqH3pNtFcI" playlabel="csqH3pNtFcI" params=""></lite-youtube>
 
 &ldquo;<strong>Channel path.</strong> The path over which the turbulence data was collected from July 2023 to March 2024. The receiver is on the University of Ottawa campus, while the sender is on the Canadian National Research Council 5.4 km East-North-East.&rdquo;</p>
@@ -865,7 +865,7 @@
     </span>
     
 </h2>
-<p>We trained a <strong>Gated Recurrent Unit (GRU)</strong> neural network, which we named <strong>TAROQQO</strong> (after the Italian word for tarot cards), to forecast the evolution of $C_{n}^{2}$ values.</p>
+<p>We trained a <strong>Gated Recurrent Unit (GRU)</strong> neural network, which we named <strong>TAROQQO</strong> (after the Italian word for tarot cards), to forecast the evolution of \(C_{n}^{2}\) values.</p>
 
 <h3 class="relative group">Data Collection
     <div id="data-collection" class="anchor"></div>
@@ -892,7 +892,7 @@
     </span>
     
 </h3>
-<p>TAROQQO can output predictions up to <strong>12 hours into the future</strong> with a time resolution as fine as one minute. In our testing (using data from February and March 2024), the network achieved an average relative error of only <strong>9%</strong> on the actual $C_{n}^{2}$ values. Even during highly variable months like October, the network remained robust with approximately 20% error
+<p><strong>TAROQQO</strong> can output predictions up to <strong>12 hours into the future</strong> with a time resolution as fine as one minute. In our testing (using data from February and March 2024), the network achieved a low averade deviation when comparing the predictions to the actual measured values. It is hard to quantify exactly, but if you look at the below plot, you can very nicely qualitatively see how well <strong>TAROQQO</strong> is working
 
 <figure>
         <img
@@ -937,14 +937,14 @@
     
 </h3>
 <ul>
-<li><strong>Security Thresholds:</strong> We confirmed that secure communication is only guaranteed in the weak-turbulence regime ($C_{n}^{2} \approx 10^{-16}$). In strong turbulence ($C_{n}^{2} \approx 10^{-14}$), the error rates are too high for security.</li>
-<li><strong>Basis Robustness:</strong> Interestingly, our simulations showed that the <strong>ANGLE basis</strong> is more robust than the OAM basis during moderate turbulence because it concentrates optical power in a smaller region.</li>
-<li><strong>Informed Decisions:</strong> By combining TAROQQO&rsquo;s forecast with these simulations, a quantum network controller can predict the success rate of a key exchange before it even begins.</li>
+<li><strong>Security Thresholds:</strong> We confirmed that based on our experimental parameters, secure communication is only guaranteed in the weak-turbulence regime \(C_{n}^{2} \approx 10^{-16}\). In strong turbulence \(C_{n}^{2} \approx 10^{-14}\), the error rates are too high for security.</li>
+<li><strong>Basis Robustness:</strong> Interestingly, our simulations showed that the <strong>ANGLE basis</strong> is more robust than the OAM basis during moderate turbulence because it concentrates optical power in a smaller region. <a href="http://localhost:1313/research/fast-ao/#Key Results" >This actaully confirms a secondary finding of a previous experiment</a></li>
+<li><strong>Informed Decisions:</strong> By combining <strong>TAROQQO</strong>&rsquo;s forecast with these simulations, a quantum network controller can predict the success rate of a key exchange before it even begins.</li>
 </ul>
 <table>
   <thead>
       <tr>
-          <th style="text-align: left">Turbulence ($C_{n}^{2}$)</th>
+          <th style="text-align: left">Turbulence (\(C_{n}^{2}\))</th>
           <th style="text-align: left">OAM QDER</th>
           <th style="text-align: left">ANG QDER</th>
           <th style="text-align: left">Key Rate (bits/photon)</th>
@@ -981,12 +981,12 @@
     </span>
     
 </h2>
-<p>TAROQQO provides a crucial validation step for near-term QKD experiments. By predicting the &ldquo;quantum weather,&rdquo; we can optimize the use of time and resources, avoiding unfavorable conditions and ensuring that secure keys are only exchanged when the channel is reliable. This is a vital step toward practical ground-to-ground and ground-to-satellite quantum communication networks.</p>
+<p><strong>TAROQQO</strong> provides a crucial validation step for near-term QKD experiments. By predicting the &ldquo;quantum weather,&rdquo; we can optimize the use of time and resources, avoiding unfavorable conditions and ensuring that secure keys are only exchanged when the channel is reliable. This is a vital step toward practical ground-to-ground and ground-to-satellite quantum communication networks.</p>
 
 <figure>
-      <img class="my-0 rounded-md" src="https://raw.github.com/TareqJ1000/TAROQQO/tareq/TaroccoAI.png" alt="TAROQQO Tarot Card cover art" />
+      <img class="my-0 rounded-md" src="https://raw.github.com/TareqJ1000/TAROQQO/tareq/TaroccoAI.png" alt="**TAROQQO** Tarot Card cover art" />
   
-  <figcaption>TAROQQO Tarot Card cover art</figcaption>
+  <figcaption><strong>TAROQQO</strong> Tarot Card cover art</figcaption>
   </figure>
 <hr>
 <p><lite-youtube videoid="cRAmVcGRbr0" playlabel="cRAmVcGRbr0" params=""></lite-youtube>

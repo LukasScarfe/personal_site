@@ -42,6 +42,7 @@ Our experiments demonstrated that AO is very effective for maintaining a secure 
 * **Error Reduction**: We measured the **Quantum Dit Error Rate (QDER)** across various dimensions. Without AO, the error rates were so high that secure communication was impossible for any dimension greater than d=2. 
 * **System Fidelity**: Through process tomography, we showed that AO restored the channel fidelity from under 50% to over **95%** in most cases. 
 * **Secure Key Rates**: By reducing errors by an average of **32.5%**, we successfully established secure communication channels that would otherwise have failed.
+* **Basis Preference**: One set of modes was more robust to turbulence, but was poorly corrected by our AO system. The other was very strongly affected by turbulence, but was well corrected by the AO system.
 
 ## Conclusion
 This work proves that advanced adaptive optics can effectively mitigate the "smearing" effect of the atmosphere on structured light. These results are a promising step toward practical, high-speed quantum networks connecting ground stations to satellites, or even establishing secure links through other turbulent mediums like water.
