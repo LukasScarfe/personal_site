@@ -1,5 +1,5 @@
-/* Blowfish scheme */
-:root { --color-neutral: 215, 230, 230;
+/* Light scheme */
+:root { --color-neutral: 230, 220, 220;
 --color-neutral-50:     255,255,255;
 --color-neutral-100:    255,195,195;
 --color-neutral-200:    255,119,119;
@@ -32,7 +32,7 @@
 --color-secondary-900:    70,70,70;
 }
 
-/* Github scheme */
+/* Dark scheme */
 .dark { --color-neutral: 255, 255, 255;
 --color-neutral-50:     255,255,255;
 --color-neutral-100:    248,252,248;

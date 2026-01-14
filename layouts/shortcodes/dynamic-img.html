@@ -1,0 +1,18 @@
+{{ $light := .Get "light" }}
+{{ $dark := .Get "dark" }}
+{{ $alt := .Get "alt" | default "Dynamic Image" }}
+{{ $caption := .Get "caption" }}
+
+<figure class="flex flex-col items-center justify-center">
+  <img src="{{ $light | safeURL }}" 
+       alt="{{ $alt }}" 
+       class="block dark:hidden mx-auto">
+  
+  <img src="{{ $dark | safeURL }}" 
+       alt="{{ $alt }}" 
+       class="hidden dark:block mx-auto">
+
+  {{ with $caption }}
+    <figcaption class="mt-2 text-sm text-center text-neutral-500">{{ . }}</figcaption>
+  {{ end }}
+</figure>

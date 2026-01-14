@@ -43,3 +43,25 @@
     background-color: #4c1d95 !important;
     color: #f9a8d4 !important;
 }
+
+
+.dynamic-img-container img {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Default state (Light Mode) */
+.dark-block {
+    display: none !important;
+}
+.light-block {
+    display: block !important;
+}
+
+/* Dark Mode state (triggered by .dark class on html or body) */
+.dark .dark-block {
+    display: block !important;
+}
+.dark .light-block {
+    display: none !important;
+}
