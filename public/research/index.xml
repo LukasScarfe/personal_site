@@ -18,7 +18,7 @@
       <author>lukasscarfe@gmail.com (Lukas Scarfe)</author>
       <guid>http://localhost:1313/research/fourier-qubits/</guid>
       <description>We introduced &amp;lsquo;Fourier-qubits,&amp;rsquo; a new class of high-dimensional quantum states that simplify the complexity of secure communication while maintaining high data rates and noise resistance.</description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/research/fourier-qubits/featured_4D_HD_Pubs_crop.png" />
     </item>
     
     <item>
@@ -38,7 +38,7 @@
       <author>lukasscarfe@gmail.com (Lukas Scarfe)</author>
       <guid>http://localhost:1313/research/fast-ao/</guid>
       <description>In this work, we showed that the use of a fast adaptive optics system in a high-dimensional quantum key distribution setup allows for secure communications even in the presence of significant noise .</description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/research/fast-ao/featured.png" />
     </item>
     
   </channel>

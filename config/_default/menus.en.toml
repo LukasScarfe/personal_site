@@ -25,7 +25,7 @@
 [[main]]
   name = "Plants"
   parent = "hobbies"
-  url = "plants"
+  url = "/plants"
   weight = 100
 
 # Child Item: Books
