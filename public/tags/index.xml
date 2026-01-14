@@ -9,7 +9,117 @@
     <managingEditor>lukasscarfe@gmail.com (Lukas Scarfe)</managingEditor>
     <webMaster>lukasscarfe@gmail.com (Lukas Scarfe)</webMaster>
     <copyright>© 2026 Lukas Scarfe</copyright>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 25 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Fourier-Qubits</title>
+      <link>http://localhost:1313/tags/fourier-qubits/</link>
+      <pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate>
+      <author>lukasscarfe@gmail.com (Lukas Scarfe)</author>
+      <guid>http://localhost:1313/tags/fourier-qubits/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Orbital Angular Momentum</title>
+      <link>http://localhost:1313/tags/orbital-angular-momentum/</link>
+      <pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate>
+      <author>lukasscarfe@gmail.com (Lukas Scarfe)</author>
+      <guid>http://localhost:1313/tags/orbital-angular-momentum/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Phase Error Rate</title>
+      <link>http://localhost:1313/tags/phase-error-rate/</link>
+      <pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate>
+      <author>lukasscarfe@gmail.com (Lukas Scarfe)</author>
+      <guid>http://localhost:1313/tags/phase-error-rate/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Quantum Cryptography</title>
+      <link>http://localhost:1313/tags/quantum-cryptography/</link>
+      <pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate>
+      <author>lukasscarfe@gmail.com (Lukas Scarfe)</author>
+      <guid>http://localhost:1313/tags/quantum-cryptography/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Quantum Key Distribution</title>
+      <link>http://localhost:1313/tags/quantum-key-distribution/</link>
+      <pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate>
+      <author>lukasscarfe@gmail.com (Lukas Scarfe)</author>
+      <guid>http://localhost:1313/tags/quantum-key-distribution/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Qubit-Like States</title>
+      <link>http://localhost:1313/tags/qubit-like-states/</link>
+      <pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate>
+      <author>lukasscarfe@gmail.com (Lukas Scarfe)</author>
+      <guid>http://localhost:1313/tags/qubit-like-states/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Atmospheric Turbulence</title>
+      <link>http://localhost:1313/tags/atmospheric-turbulence/</link>
+      <pubDate>Mon, 03 Mar 2025 00:00:00 +0000</pubDate>
+      <author>lukasscarfe@gmail.com (Lukas Scarfe)</author>
+      <guid>http://localhost:1313/tags/atmospheric-turbulence/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Machine Learning</title>
+      <link>http://localhost:1313/tags/machine-learning/</link>
+      <pubDate>Mon, 03 Mar 2025 00:00:00 +0000</pubDate>
+      <author>lukasscarfe@gmail.com (Lukas Scarfe)</author>
+      <guid>http://localhost:1313/tags/machine-learning/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Time-Series Forecasting</title>
+      <link>http://localhost:1313/tags/time-series-forecasting/</link>
+      <pubDate>Mon, 03 Mar 2025 00:00:00 +0000</pubDate>
+      <author>lukasscarfe@gmail.com (Lukas Scarfe)</author>
+      <guid>http://localhost:1313/tags/time-series-forecasting/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Adaptive Optics</title>
+      <link>http://localhost:1313/tags/adaptive-optics/</link>
+      <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
+      <author>lukasscarfe@gmail.com (Lukas Scarfe)</author>
+      <guid>http://localhost:1313/tags/adaptive-optics/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Atmospheric Optics</title>
+      <link>http://localhost:1313/tags/atmospheric-optics/</link>
+      <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
+      <author>lukasscarfe@gmail.com (Lukas Scarfe)</author>
+      <guid>http://localhost:1313/tags/atmospheric-optics/</guid>
+      <description></description>
+      
+    </item>
     
   </channel>
 </rss>

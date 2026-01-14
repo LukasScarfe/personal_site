@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Phase Error Rate on Lukas Scarfe</title>
+    <link>http://localhost:1313/tags/phase-error-rate/</link>
+    <description>Recent content in Phase Error Rate on Lukas Scarfe</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>lukasscarfe@gmail.com (Lukas Scarfe)</managingEditor>
+    <webMaster>lukasscarfe@gmail.com (Lukas Scarfe)</webMaster>
+    <copyright>© 2026 Lukas Scarfe</copyright>
+    <lastBuildDate>Tue, 25 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/phase-error-rate/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>High-dimensional quantum key distribution with Qubit-like states</title>
+      <link>http://localhost:1313/research/fourier-qubits/</link>
+      <pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate>
+      <author>lukasscarfe@gmail.com (Lukas Scarfe)</author>
+      <guid>http://localhost:1313/research/fourier-qubits/</guid>
+      <description>We introduce a high-dimensional QKD protocol using qubit-like states that are superpositions of only two computational basis states. This simplifies experimental implementation while providing a measured sifted key rate above 1 bit per photon in a noisy 4-dimensional channel.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/research/fourier-qubits/featured_4D_HD_Pubs_crop.png" />
+    </item>
+    
+  </channel>
+</rss>

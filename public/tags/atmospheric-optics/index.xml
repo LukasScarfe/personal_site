@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Atmospheric Optics on Lukas Scarfe</title>
+    <link>http://localhost:1313/tags/atmospheric-optics/</link>
+    <description>Recent content in Atmospheric Optics on Lukas Scarfe</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>lukasscarfe@gmail.com (Lukas Scarfe)</managingEditor>
+    <webMaster>lukasscarfe@gmail.com (Lukas Scarfe)</webMaster>
+    <copyright>© 2026 Lukas Scarfe</copyright>
+    <lastBuildDate>Mon, 24 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/atmospheric-optics/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Fast adaptive optics for high-dimensional quantum communications in turbulent channels</title>
+      <link>http://localhost:1313/research/fast-ao/</link>
+      <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
+      <author>lukasscarfe@gmail.com (Lukas Scarfe)</author>
+      <guid>http://localhost:1313/research/fast-ao/</guid>
+      <description>We employ a high-speed Adaptive Optics (AO) system to correct real-time wavefront distortions in spatial modes, significantly reducing crosstalk and error rates for OAM-based QKD in turbulent environments.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/research/fast-ao/featured.png" />
+    </item>
+    
+  </channel>
+</rss>

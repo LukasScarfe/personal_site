@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Atmospheric Turbulence on Lukas Scarfe</title>
+    <link>http://localhost:1313/tags/atmospheric-turbulence/</link>
+    <description>Recent content in Atmospheric Turbulence on Lukas Scarfe</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>lukasscarfe@gmail.com (Lukas Scarfe)</managingEditor>
+    <webMaster>lukasscarfe@gmail.com (Lukas Scarfe)</webMaster>
+    <copyright>© 2026 Lukas Scarfe</copyright>
+    <lastBuildDate>Mon, 03 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/atmospheric-turbulence/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Predicting atmospheric turbulence for secure quantum communications in free space</title>
+      <link>http://localhost:1313/research/turbulence-prediction/</link>
+      <pubDate>Mon, 03 Mar 2025 00:00:00 +0000</pubDate>
+      <author>lukasscarfe@gmail.com (Lukas Scarfe)</author>
+      <guid>http://localhost:1313/research/turbulence-prediction/</guid>
+      <description>We present a machine learning approach to forecast atmospheric turbulence ($C_n^2$) up to 12 hours in advance. By predicting channel conditions, we can determine optimal timing for secure key exchange in free-space quantum networks.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/research/turbulence-prediction/featured_taroqqo.png" />
+    </item>
+    
+  </channel>
+</rss>
