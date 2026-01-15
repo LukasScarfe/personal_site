@@ -1,0 +1,12 @@
+<div class="not-prose relative my-6 grid grid-cols-[3rem_1fr_3rem] items-center rounded-lg border border-primary-200 bg-primary-50 px-4 py-2 dark:border-primary-900 dark:bg-primary-900/20" 
+     style="counter-increment: equation-count;">
+  
+  <div></div>
+
+  <div class="text-center leading-tight [&_.katex-display]:my-0 [&_.MathJax_Display]:my-0 overflow-x-auto">
+    {{ .Inner | markdownify }}
+  </div>
+
+  <div class="equation-number text-right font-mono text-xs font-bold text-primary-600 dark:text-primary-400">
+  </div>
+</div>

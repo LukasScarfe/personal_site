@@ -1,4 +1,16 @@
 /* assets/css/custom.css */
+
+/* Start numbering at 1 for every article */
+article {
+  counter-reset: equation-count;
+}
+
+.equation-number::before {
+  content: "(" counter(equation-count) ")";
+  display: inline-block;
+  white-space: nowrap;
+}
+
 .book-container {
     margin: 2rem auto;
     text-align: center;

@@ -10,6 +10,7 @@ showAuthor: false
 showDate: true
 showReadingTime: false
 showWordCount: false
+math: true
 ---
 
 {{< katex >}}
@@ -35,9 +36,12 @@ We introduced a protocol that uses the standard logical basis (the computational
 
 An \(F\)-qubit is a superposition of only **two** logical states, regardless of how high the dimension of the system is. The information is stored in the relative phase between these two states, which can take \(d\) different values. 
 
+{{< equation >}}
+  \[ |\phi_{jk}^{m} \rangle = (|j\rangle + \omega_d^m|k\rangle)/\sqrt{2} \]
+{{< /equation >}}
 
-\\[|\phi_{jk}^{m} \rangle = (|j\rangle + \omega_d^m|k\rangle)/\sqrt{2},\\]
 where \({\omega_d= e^{2 \mathrm{\pi i} /d }}\), \({j \in\{0,1...,d-2\}}\), \({k\in\{1,2,...,d-1\}}\), with \( j< k\), and \({m\in\{0,1,...,d-1\}}\).
+
 
 {{< figure
     src="img/4DFQubits.png"
