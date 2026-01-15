@@ -33,7 +33,6 @@ I bought this for 5$ from Home Depot in the winter of '24. It is a slow grower, 
       alt="Rotated picture of my Ficus in Feb of 2024. There are only 5 leaves" 
       caption="This is a photo of the first leaves that it made after I bought it. One of those original leaves has since been lost. I can't figure out how to rotate this picture." 
       width="300px" 
-      class="rotate-90"
   >}}
   {{< /timelineItem >}}
   
