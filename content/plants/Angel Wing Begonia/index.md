@@ -9,7 +9,7 @@ showAuthor: false
 showWordCount: false
 ---
 
-I got cuttings of this plant from my Grandma in the summer of 2024. We have since cut it up many times and made many plants out of it. This is the first time we are growing it bushy, and it has exploded from just stick cuttings into a bush since our move in August. This plant has some of the most delicate flowers of any plant I have ever seen. If you look at these pink flowers wrong, they will go flying off the plant. Thanks for the cutting Gima :heart:.
+I got cuttings of this [Angel Wing Begonia](https://en.wikipedia.org/wiki/Cane_begonia) from my Grandma in the Summer of '24. We have since cut it up many times and made many plants out of it. This is the first time we are growing it bushy, and it has exploded from just stick cuttings into a bush since our move in August. This plant has some of the most delicate flowers of any plant I have ever seen. If you look at these pink flowers wrong, they will go flying off the plant. Thanks for the cutting Gima :heart:.
 
 ## Growth Timeline
 

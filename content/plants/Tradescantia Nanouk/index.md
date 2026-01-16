@@ -9,7 +9,7 @@ showAuthor: false
 showWordCount: false
 ---
 
-This thing is hard to kill, it is very easily chopped up and propagated directly back into soil. The leaves get brown and crispy if they are touched with water or if it is even too humid.
+I don't actually know where this [Tradescantia Nanouk](https://en.wikipedia.org/wiki/Tradescantia) came from... I think that we might have been given cuttings of it from the floor at Canadian Tire by a very nice old lady who was working there while we were shopping for plants. This was early on in my time with plants, maybe in the Spring of '24(*?*), when Michelle was still teaching me how not to kill them. There are no pictures of it from early on, because it was really not doing well. We almost threw it away completely because the leaves get brown and crispy if they are touched with water, or even if it is even too humid. We have learned that it really wants to be bottom watered, and that it is almost succulent-like, only wanting water when the leaves are very flimsy to the touch. Now that I better understand this thing though, it is hard to kill and it is almost too fast to grow. It is very easily chopped up and propagated directly back into soil or gifted. I don't like giving the cuttings to people who aren't pretty experienced with plants though because of my personal troubles with it at the start. 
 
 ## Growth Timeline
 
@@ -21,7 +21,7 @@ This thing is hard to kill, it is very easily chopped up and propagated directly
   {{< figure 
       src="feature_2026-01-13.jpg" 
       alt="Tradescantia Nanouk in a green pot" 
-      caption="Some brown and crispy leaves. But it has grown a lot since it was just propagations in August" 
+      caption="Some brown and crispy leaves. But it has grown a lot since it was just tiny cuttings in August. We are working on the humidity ever since moving." 
       width="300px" 
   >}}
   {{< /timelineItem >}}

@@ -9,7 +9,7 @@ showAuthor: false
 showWordCount: false
 ---
 
-I bought this for 5$ from Home Depot in the winter of '24. It is a slow grower, but it is consistent and has gone from real small to medium while only losing one leaf. If you don't consistently rotate this guy, he will grow off in one direction.
+I bought this [ficus elastica](https://en.wikipedia.org/wiki/Ficus_elastica), better known as a rubber tree, for 5$ from Home Depot in the winter of '24. It is a slow grower, but it is consistent and has gone from real small to medium while only losing one leaf. If you don't consistently rotate this guy, he will grow off in one direction.
 
 ## Growth Timeline
 

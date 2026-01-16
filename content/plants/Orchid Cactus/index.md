@@ -9,7 +9,7 @@ showAuthor: false
 showWordCount: false
 ---
 
-I got cuttings of this plant from my Grandma in the summer of 2025. It had been in prime growlight position ever since and I think it has been doing very well! Thanks for the gift Gran :heart:.
+I got cuttings of this [Orchid Cactus](https://en.wikipedia.org/wiki/Epiphyllum) from my Grandma in the Summer of '25. At the time we just took cuttings fromt the lanky light-deprived sections of the plant. It ha since been in prime growlight position ever since and I think it has been doing very well! I don't have pictures to compare but I think that it might be almost as big as the mother plant now. Thanks for the gift Gran :heart:.
 
 ## Growth Timeline
 
