@@ -3,13 +3,43 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:1313/research/fourier-qubits/</loc>
-    <lastmod>2025-11-25T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/plants/angel-wing-begonia/</loc>
+    <lastmod>2026-01-15T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/plants/ficus-elastica/</loc>
+    <lastmod>2026-01-15T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://localhost:1313/</loc>
+    <lastmod>2026-01-15T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/plants/</loc>
+    <lastmod>2026-01-15T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/plants/orchid-cactus/</loc>
+    <lastmod>2026-01-14T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/plants/tradescantia-nanouk/</loc>
+    <lastmod>2026-01-13T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/research/fourier-qubits/</loc>
     <lastmod>2025-11-25T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -33,16 +63,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/plants/angel-wing-begonia/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/plants/ficus-elastica/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/travel/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -53,22 +73,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/plants/orchid-cactus/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/plants/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/reading/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/plants/tradescantia-nanouk/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

@@ -1,5 +1,6 @@
 ---
 title: "Ficus Elastica"
+date: 2026-01-15
 summary: "The Ficus Elastica, commonly known as the Rubber Plant, is a robust indoor tree admired for its large, glossy leaves that possess a thick, leathery texture. These broad oval leaves emerge from a distinctive pinkish sheath and can range in color from a deep, waxy green to a dramatic \"Burgundy\" or even variegated patterns of cream and lime. Because of its sturdy upright growth habit, it serves as a sophisticated focal point in interior design while being remarkably effective at filtering indoor air."
 showDate: false
 showReadingTime: false

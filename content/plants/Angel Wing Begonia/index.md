@@ -1,5 +1,6 @@
 ---
 title: "Angel Wing Begonia"
+date: 2026-01-15
 summary: "The Angel Wing begonia is a popular hybrid houseplant prized for its striking, asymmetrical leaves that resemble the outstretched wings of an angel. These leaves often feature a deep forest-green color on top with shimmering silver speckles and a vibrant, contrasting burgundy or red underside. Under the right light conditions, the plant produces drooping clusters of delicate waxy flowers in shades ranging from bright white to soft pink."
 showDate: false
 showReadingTime: false
