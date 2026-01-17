@@ -416,7 +416,7 @@
     "keywords": ["Quantum Key Distribution","Quantum Cryptography","Fourier-qubits","Qubit-like States","Orbital Angular Momentum","Phase Error Rate"],
     
     "mainEntityOfPage": "true",
-    "wordCount": "625"
+    "wordCount": "706"
   }]
   </script>
 
@@ -938,8 +938,8 @@
     </span>
     
 </h2>
-<p>Most QKD systems today operate in two dimensions (using qubits), like the polarization of light. High-dimensional (HD) QKD is attractive because it allows us to send more than one bit of information per photon and provides better tolerance against noise and eavesdropping.</p>
-<p>However, the &ldquo;go-to&rdquo; high-dimensional protocols require states that are superpositions of <em>all</em> possible values in a given dimension \(d\). As \(d\) increases, the experimental setup becomes exponentially more complex and prone to errors. This technical hurdle is the primary reason most commercial systems still stick to simple two-dimensional protocols.</p>
+<p>Most QKD systems today operate in two dimensions (using qubits), most often implements with the polarization of light. High-dimensional (HD) QKD is attractive because it allows us to send more than one bit of information per photon and provides better tolerance against noise and eavesdropping.</p>
+<p>However, the &ldquo;go-to&rdquo; HD protocols require states that are superpositions of <em>all</em> possible values in a given dimension \(d\). As \(d\) increases, the experimental setup to measure these superposition states becomes exponentially more complex and prone to errors. This technical hurdle is the primary reason most commercial systems still stick to simple two-dimensional protocols.</p>
 
 <h2 class="relative group">Our Solution: Fourier-Qubits
     <div id="our-solution-fourier-qubits" class="anchor"></div>
@@ -950,7 +950,7 @@
     </span>
     
 </h2>
-<p>We introduced a protocol that uses the standard logical basis (the computational basis) but replaces the complex Fourier basis with <strong>\(F\)-qubits</strong>.</p>
+<p>We introduced a protocol that uses the standard logical basis (the most simple form of basis) but replaces the secondary Fourier basis with <strong>\(F\)-qubits</strong>.</p>
 <p>An \(F\)-qubit is a superposition of only <strong>two</strong> logical states, regardless of how high the dimension of the system is. The information is stored in the relative phase between these two states, which can take \(d\) different values.</p>
 <div class="not-prose relative my-6 grid grid-cols-[3rem_1fr_3rem] items-center rounded-lg border border-primary-200 bg-primary-50 px-4 py-2 dark:border-primary-900 dark:bg-primary-900/20" 
      style="counter-increment: equation-count;">
@@ -995,7 +995,7 @@
 </h3>
 <ul>
 <li><strong>Simpler Hardware:</strong> Because we only ever interfere two states at a time, the measurement complexity remains constant even as the dimension grows.</li>
-<li><strong>High Efficiency:</strong> In systems using Spatial Light Modulators (SLMs), \(F\)-qubits utilize the active area of the device much more efficiently than traditional high-dimensional states.</li>
+<li><strong>High Efficiency:</strong> In systems using Spatial Light Modulators (SLMs), \(F\)-qubits utilize more of the active area of the device than traditional high-dimensional states.</li>
 <li><strong>Security:</strong> We mathematically proved that even though these states look &ldquo;two-dimensional,&rdquo; they can still be used to bound the information leaked to an eavesdropper in a high-dimensional Hilbert space.</li>
 </ul>
 
@@ -1040,6 +1040,17 @@
 <li><strong>Robustness:</strong> The protocol remained secure and functional in a noisy, turbulent environment.</li>
 <li><strong>Scalability:</strong> By fixing the measurement complexity to two modes, we&rsquo;ve created a path for high-dimensional QKD that has a lower complexity barrier when it comes to measurement and generation.</li>
 </ol>
+
+<h2 class="relative group">Negatives
+    <div id="negatives" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none">
+        <a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#negatives" aria-label="Anchor">#</a>
+    </span>
+    
+</h2>
+<p>It needs to be stated that even though we feel that the implementation of the \(F\)-Qubits does allow for simpler meaurements to be used for HD QKD, more modes are needed. The number of different states that you need to measure increases rapidly with dimension in this basis. This is an important drawback to keep in mind if you are designing a real-world system. As always there are tradeoffs.</p>
 
 <h2 class="relative group">Conclusion
     <div id="conclusion" class="anchor"></div>

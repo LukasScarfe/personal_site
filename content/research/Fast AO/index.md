@@ -23,20 +23,19 @@ showWordCount: false
 
 ## [**Click here for the full manuscript published in Communications Physics**](https://www.nature.com/articles/s42005-025-01986-6)
 
-My colleagues and I at the University of Ottawa have been working to overcome atmospheric turbulence in free-space quantum communication for [a long time](https://opg.optica.org/optica/viewmedia.cfm?uri=optica-4-9-1006&html=true). This work focuses on using high-speed technology to "clean up" quantum signals so they can be sent securely over long distances in the atmosphere.
+My colleagues and I at the University of Ottawa have been working to overcome atmospheric turbulence in free-space quantum communication for [a long time](https://opg.optica.org/optica/viewmedia.cfm?uri=optica-4-9-1006&html=true). This work focuses on using high-speed technology to correct errors in quantum signals so they can be sent over long distances in the atmosphere.
 
 ## Background: Free-Space Quantum Links
-Quantum Key Distribution (QKD) provides a method for two parties to share secret keys with security guaranteed by the laws of physics. In essence this provides guaranteed secure communication, meaning literally nobody know what is being sent in the channel. While optical fibers are the backbone of our modern day internet, they suffer from significant signal loss over long distances when using quantum signals since they cannot be amplified without being destroyed. 
+Quantum Key Distribution (QKD) provides a method for two parties to share secret keys with security guaranteed by the laws of physics. In essence this provides guaranteed secure communication, meaning literally no hacker or eavesdropper can learn what is being sent back and forth. While optical fibers are the backbone of our modern day internet, they suffer from significant signal loss over long distances when using quantum signals since they cannot be amplified without being destroyed. 
 
 We strongly believe that to build a global quantum network (allowing globaly unhackable communications), we must use free-space links, like ground-to-satellite communications. However, the atmosphere is a very chaotic medium. Constant changes in temperature and pressure create turbulence that distorts the phase and structure of light. If you have ever seen the stars twinkling, you have seen this in action, as the twinkle is the effect of the dim starlight being deflected on around on its way to your eyes. We want to use the spatial shape of individual photons to pack more data into every signal, but the turbulence causes  different signals to overlap and become indistinguishable, resulting in high error rates.
 
 {{<youtubeLite id="EZ7la-hMNuk"  label="Stars Twinkling Video" params="controls=0">}}
 
 ## Adaptive Optics
-We implemented a fast **Adaptive Optics (AO)** system to correct these distortions in real-time in a small artificial channel in our lab. We use a "reference" laser beam to measure the distortions caused by turbulence in the channel at a given time. A "signal" beam carries the quantum information through the channel at the same time.
+We implemented a fast **Adaptive Optics (AO)** system from [Bertin ALPAO](https://www.alpao.com/?gad_source=1&gad_campaignid=22605115097&gbraid=0AAAAAD54ozmCAyNY4-ixwMPAtGthNuRqS&gclid=CjwKCAiA4KfLBhB0EiwAUY7GAdPyyRb2cc3je5cXTt4QJHmgg57718QNUcLUf-M8SG2kFJJBkLmvEhoCZGwQAvD_BwE) to correct these distortions in real-time in a small artificial channel in our lab. We use a "reference" laser beam to measure the distortions caused by turbulence in the channel at a given time. A "signal" beam carries the quantum information through the channel at the same time.
 
 Here is a video showing off how a wavefront sensor works from the company we purchased out AO system from:
-
 
 * **Measuring Turbulence - Shack-Hartmann Wavefront Sensor (SHWFS)**:  The reference beam is sent to a SHWFS to measure the phase changes caused by turbulence. These phase changes vary spatially, and you can consider the WFS to be a camera that exchanges position information in exchange for phase information.
 
@@ -56,7 +55,7 @@ Our experiments demonstrated that AO is very effective for maintaining a secure 
 * **Basis Preference**: One set of modes was more robust to turbulence, but was poorly corrected by our AO system. The other was very strongly affected by turbulence, but was well corrected by the AO system.
 
 ## Conclusion
-This work proves that advanced adaptive optics can effectively mitigate the "smearing" effect of the atmosphere on structured light. These results are a promising step toward practical, high-speed quantum networks connecting ground stations to satellites, or even establishing secure links through other turbulent mediums like water.
+Our work showed that advanced adaptive optics can effectively mitigate the negative effects of the atmosphere on structured light. These results are a promising step toward practical, high-speed quantum networks connecting ground stations to satellites, or even establishing secure links through other turbulent mediums like water.
 
 ---
 

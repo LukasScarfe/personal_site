@@ -1,5 +1,5 @@
 ---
-title: "Fast adaptive optics for high-dimensional quantum communications in turbulent channels"
+title: "Investigating the performance of adaptive optics on different bases of spatial modes in turbulent channels"
 date: 2025-02-24
 summary: "In this work, we showed that the use of a fast adaptive optics system in a high-dimensional quantum key distribution setup allows for secure communications even in the presence of significant noise ."
 showAuthor: false
@@ -12,13 +12,13 @@ draft: true
 {{< katex >}}
 
 {{< dynamic-img 
-    light="https://raw.githubusercontent.com/LukasScarfe/Google-Scholar/refs/heads/master/plots/light/Fast_adaptive_optics_for_highdimensional.png"
-    dark="https://raw.githubusercontent.com/LukasScarfe/Google-Scholar/refs/heads/master/plots/dark/Fast_adaptive_optics_for_highdimensional.png"
+    light="https://raw.githubusercontent.com/LukasScarfe/Google-Scholar/refs/heads/master/plots/light/Investigating_the_performance_of_adaptive.png"
+    dark="https://raw.githubusercontent.com/LukasScarfe/Google-Scholar/refs/heads/master/plots/dark/Investigating_the_performance_of_adaptive.png"
     alt="Citation Count"
-    caption=" [Source](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_eBW18oAAAAJ&citation_for_view=_eBW18oAAAAJ:IjCSPb-OGe4C)" 
+    caption=" [Source](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_eBW18oAAAAJ&citation_for_view=_eBW18oAAAAJ:ufrVoPGSRksC)" 
 >}}
 
-## [**Click here for the full manuscript published in Communications Physics**](https://www.nature.com/articles/s42005-025-01986-6)
+## [**Click here for the full manuscript published in Optics Express**](https://www.nature.com/articles/s42005-025-01986-6)
 
 My colleagues and I at the University of Ottawa have been working to overcome atmospheric turbulence in free-space quantum communication for [a long time](https://opg.optica.org/optica/viewmedia.cfm?uri=optica-4-9-1006&html=true). This work focuses on using high-speed technology to "clean up" quantum signals so they can be sent securely over long distances in the atmosphere.
 

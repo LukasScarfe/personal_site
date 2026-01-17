@@ -27,12 +27,12 @@ math: true
 While Quantum Key Distribution (QKD) is theoretically secure, moving from theory to the real world is difficult. My recent research focuses on bridging the gap between high-dimensional protocols—which can carry more information per photon—and the technical simplicity required for practical, commercial hardware. We achieve this by using "qubit-like" states in a high-dimensional space, which we call **Fourier-qubits (\(F\)-qubits)**.
 
 ## The Problem: The Complexity of High Dimensions
-Most QKD systems today operate in two dimensions (using qubits), like the polarization of light. High-dimensional (HD) QKD is attractive because it allows us to send more than one bit of information per photon and provides better tolerance against noise and eavesdropping.
+Most QKD systems today operate in two dimensions (using qubits), most often implements with the polarization of light. High-dimensional (HD) QKD is attractive because it allows us to send more than one bit of information per photon and provides better tolerance against noise and eavesdropping.
 
-However, the "go-to" high-dimensional protocols require states that are superpositions of *all* possible values in a given dimension \(d\). As \(d\) increases, the experimental setup becomes exponentially more complex and prone to errors. This technical hurdle is the primary reason most commercial systems still stick to simple two-dimensional protocols.
+However, the "go-to" HD protocols require states that are superpositions of *all* possible values in a given dimension \(d\). As \(d\) increases, the experimental setup to measure these superposition states becomes exponentially more complex and prone to errors. This technical hurdle is the primary reason most commercial systems still stick to simple two-dimensional protocols.
 
 ## Our Solution: Fourier-Qubits
-We introduced a protocol that uses the standard logical basis (the computational basis) but replaces the complex Fourier basis with **\(F\)-qubits**. 
+We introduced a protocol that uses the standard logical basis (the most simple form of basis) but replaces the secondary Fourier basis with **\(F\)-qubits**. 
 
 An \(F\)-qubit is a superposition of only **two** logical states, regardless of how high the dimension of the system is. The information is stored in the relative phase between these two states, which can take \(d\) different values. 
 
@@ -51,7 +51,7 @@ where \({\omega_d= e^{2 \mathrm{\pi i} /d }}\), \({j \in\{0,1...,d-2\}}\), \({k\
 
 ### Why this works:
 * **Simpler Hardware:** Because we only ever interfere two states at a time, the measurement complexity remains constant even as the dimension grows.
-* **High Efficiency:** In systems using Spatial Light Modulators (SLMs), \(F\)-qubits utilize the active area of the device much more efficiently than traditional high-dimensional states.
+* **High Efficiency:** In systems using Spatial Light Modulators (SLMs), \(F\)-qubits utilize more of the active area of the device than traditional high-dimensional states.
 * **Security:** We mathematically proved that even though these states look "two-dimensional," they can still be used to bound the information leaked to an eavesdropper in a high-dimensional Hilbert space.
 
 ## Experimental Demonstration
@@ -69,6 +69,9 @@ Our work demonstrates that you can use less complex quantum states to reap the r
 1. **Efficiency:** We maintained the benefit of increased information density while using simpler states (significantly more of them though).
 2. **Robustness:** The protocol remained secure and functional in a noisy, turbulent environment.
 3. **Scalability:** By fixing the measurement complexity to two modes, we've created a path for high-dimensional QKD that has a lower complexity barrier when it comes to measurement and generation.
+
+## Negatives
+It needs to be stated that even though we feel that the implementation of the \(F\)-Qubits does allow for simpler meaurements to be used for HD QKD, more modes are needed. The number of different states that you need to measure increases rapidly with dimension in this basis. This is an important drawback to keep in mind if you are designing a real-world system. As always there are tradeoffs.
 
 ## Conclusion
 The introduction of \(F\)-qubits offers a practical "middle ground" for quantum communications. It provides the high-speed performance of high-dimensional spaces without the traditional experimental headaches. We foresee this being particularly useful in bandwidth-limited channels, such as satellite-to-ground links or fiber networks where detector recovery times usually limit speed.
