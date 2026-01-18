@@ -1,6 +1,10 @@
 ---
 title: "Plant Catalogue"
-layout: "basic"
+featured_image: "feature.jpg"
+layout: "hero"
+# header:
+#   image: "feature.jpg" # Place this image in the same folder as _index.md
+#   layout: "hero"     # Options: "background", "basic", or "hero"
 showDate: false
 showReadingTime: false
 draft: false
