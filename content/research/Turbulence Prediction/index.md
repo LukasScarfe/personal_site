@@ -18,10 +18,10 @@ showWordCount: false
     light="https://raw.githubusercontent.com/LukasScarfe/Google-Scholar/refs/heads/master/plots/light/Predicting_atmospheric_turbulence_for_secure.png"
     dark="https://raw.githubusercontent.com/LukasScarfe/Google-Scholar/refs/heads/master/plots/dark/Predicting_atmospheric_turbulence_for_secure.png"
     alt="Citation Count"
-    caption=" [Source](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_eBW18oAAAAJ&citation_for_view=_eBW18oAAAAJ:zYLM7Y9cAGgC)" 
+    caption=" [Source](https://r.lukasscarfe.com/taroqqo-g)" 
 >}}
 
-## [**Click here for the full manuscript published in Optics Express**](https://doi.org/10.1364/OE.546606)
+## [**Click here for the full manuscript published in Optics Express**](https://r.lukasscarfe.com/taroqqo)
 
 My work in the [SQO Group](https://sqogroup.ca/) led me to want to know if we could "see into the future" so that we could know whether or not we should do experiments on a given day. While previous work focused on cleaning up signals in real-time, this research introduces **TAROQQO**, a computational toolbox designed to predict when the atmosphere will be calm enough to establish a quantum key distribution channel in the first place.
 

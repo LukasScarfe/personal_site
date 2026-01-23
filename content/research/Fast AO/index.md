@@ -18,10 +18,10 @@ showWordCount: false
     light="https://raw.githubusercontent.com/LukasScarfe/Google-Scholar/refs/heads/master/plots/light/Fast_adaptive_optics_for_highdimensional.png"
     dark="https://raw.githubusercontent.com/LukasScarfe/Google-Scholar/refs/heads/master/plots/dark/Fast_adaptive_optics_for_highdimensional.png"
     alt="Citation Count"
-    caption=" [Source](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_eBW18oAAAAJ&citation_for_view=_eBW18oAAAAJ:IjCSPb-OGe4C)" 
+    caption=" [Source](https://r.lukasscarfe.com/fao-g)" 
 >}}
 
-## [**Click here for the full manuscript published in Communications Physics**](https://www.nature.com/articles/s42005-025-01986-6)
+## [**Click here for the full manuscript published in Communications Physics**](https://r.lukasscarfe.com/fao)
 
 My colleagues and I at the University of Ottawa have been working to overcome atmospheric turbulence in free-space quantum communication for [a long time](https://opg.optica.org/optica/viewmedia.cfm?uri=optica-4-9-1006&html=true). This work focuses on using high-speed technology to correct errors in quantum signals so they can be sent over long distances in the atmosphere.
 

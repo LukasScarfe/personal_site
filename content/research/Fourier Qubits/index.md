@@ -19,10 +19,10 @@ math: true
     light="https://raw.githubusercontent.com/LukasScarfe/Google-Scholar/refs/heads/master/plots/light/Highdimensional_quantum_key_distribution_with.png"
     dark="https://raw.githubusercontent.com/LukasScarfe/Google-Scholar/refs/heads/master/plots/dark/Highdimensional_quantum_key_distribution_with.png"
     alt="Citation Count"
-    caption=" [Source](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_eBW18oAAAAJ&citation_for_view=_eBW18oAAAAJ:Y0pCki6q_DkC)" 
+    caption=" [Source](https://r.lukasscarfe.com/fqb-g)" 
 >}}
 
-## [**Click here for the full manuscript published in Communications Physics**](https://www.nature.com/articles/s42005-025-02376-8)
+## [**Click here for the full manuscript published in Communications Physics**](https://r.lukasscarfe.com/fqb)
 
 While Quantum Key Distribution (QKD) is theoretically secure, moving from theory to the real world is difficult. My recent research focuses on bridging the gap between high-dimensional protocols—which can carry more information per photon—and the technical simplicity required for practical, commercial hardware. We achieve this by using "qubit-like" states in a high-dimensional space, which we call **Fourier-qubits (\(F\)-qubits)**.
 
