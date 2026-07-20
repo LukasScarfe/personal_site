@@ -23,7 +23,12 @@ jobs:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
         with:
-          hugo-version: 'latest'
+          # PINNED, do not set back to 'latest'. The Blowfish theme declares
+          # min 0.141.0 / max 0.154.5 (themes/blowfish/config.toml). 'latest'
+          # drifted to Hugo 0.164.0, which removed site.Author and broke the
+          # build in layouts/partials/footer.html. Bump this only after checking
+          # the theme's declared max.
+          hugo-version: '0.154.5'
           extended: true # REQUIRED for Blowfish
 
       - name: Build
