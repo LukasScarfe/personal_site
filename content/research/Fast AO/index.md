@@ -15,8 +15,8 @@ showWordCount: false
 {{< katex >}}
 
 {{< dynamic-img 
-    light="https://raw.githubusercontent.com/LukasScarfe/Google-Scholar/refs/heads/master/plots/light/Fast_adaptive_optics_for_highdimensional.png"
-    dark="https://raw.githubusercontent.com/LukasScarfe/Google-Scholar/refs/heads/master/plots/dark/Fast_adaptive_optics_for_highdimensional.png"
+    light="https://raw.githubusercontent.com/LukasScarfe/Google-Scholar/refs/heads/plots-latest/light/Fast_adaptive_optics_for_highdimensional.png"
+    dark="https://raw.githubusercontent.com/LukasScarfe/Google-Scholar/refs/heads/plots-latest/dark/Fast_adaptive_optics_for_highdimensional.png"
     alt="Citation Count"
     caption=" [Source](https://r.lukasscarfe.com/fao-g)" 
 >}}

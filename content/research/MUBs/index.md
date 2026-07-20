@@ -12,8 +12,8 @@ draft: true
 {{< katex >}}
 
 {{< dynamic-img 
-    light="https://raw.githubusercontent.com/LukasScarfe/Google-Scholar/refs/heads/master/plots/light/Investigating_the_performance_of_adaptive.png"
-    dark="https://raw.githubusercontent.com/LukasScarfe/Google-Scholar/refs/heads/master/plots/dark/Investigating_the_performance_of_adaptive.png"
+    light="https://raw.githubusercontent.com/LukasScarfe/Google-Scholar/refs/heads/plots-latest/light/Investigating_the_performance_of_adaptive.png"
+    dark="https://raw.githubusercontent.com/LukasScarfe/Google-Scholar/refs/heads/plots-latest/dark/Investigating_the_performance_of_adaptive.png"
     alt="Citation Count"
     caption=" [Source](https://r.lukasscarfe.com/mubs-g)" 
 >}}

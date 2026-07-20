@@ -15,8 +15,8 @@ showWordCount: false
 {{< katex >}}
 
 {{< dynamic-img 
-    light="https://raw.githubusercontent.com/LukasScarfe/Google-Scholar/refs/heads/master/plots/light/Predicting_atmospheric_turbulence_for_secure.png"
-    dark="https://raw.githubusercontent.com/LukasScarfe/Google-Scholar/refs/heads/master/plots/dark/Predicting_atmospheric_turbulence_for_secure.png"
+    light="https://raw.githubusercontent.com/LukasScarfe/Google-Scholar/refs/heads/plots-latest/light/Predicting_atmospheric_turbulence_for_secure.png"
+    dark="https://raw.githubusercontent.com/LukasScarfe/Google-Scholar/refs/heads/plots-latest/dark/Predicting_atmospheric_turbulence_for_secure.png"
     alt="Citation Count"
     caption=" [Source](https://r.lukasscarfe.com/taroqqo-g)" 
 >}}

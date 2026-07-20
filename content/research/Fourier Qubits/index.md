@@ -16,8 +16,8 @@ math: true
 {{< katex >}}
 
 {{< dynamic-img 
-    light="https://raw.githubusercontent.com/LukasScarfe/Google-Scholar/refs/heads/master/plots/light/Highdimensional_quantum_key_distribution_with.png"
-    dark="https://raw.githubusercontent.com/LukasScarfe/Google-Scholar/refs/heads/master/plots/dark/Highdimensional_quantum_key_distribution_with.png"
+    light="https://raw.githubusercontent.com/LukasScarfe/Google-Scholar/refs/heads/plots-latest/light/Highdimensional_quantum_key_distribution_with.png"
+    dark="https://raw.githubusercontent.com/LukasScarfe/Google-Scholar/refs/heads/plots-latest/dark/Highdimensional_quantum_key_distribution_with.png"
     alt="Citation Count"
     caption=" [Source](https://r.lukasscarfe.com/fqb-g)" 
 >}}
