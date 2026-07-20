@@ -32,7 +32,10 @@ jobs:
           extended: true # REQUIRED for Blowfish
 
       - name: Build
-        run: hugo --minify
+        # --cleanDestinationDir removes files in ./public that this build did not
+        # generate. Without it, any stale public/ contents are uploaded and served —
+        # which is how a `draft: true` page and three renamed slugs stayed live.
+        run: hugo --minify --cleanDestinationDir
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
