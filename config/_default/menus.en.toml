@@ -35,6 +35,19 @@
   url = "/reading"
   weight = 200
 
+[[main]]
+  name = "Puzzles"
+  identifier = "puzzles"
+  url = "#"
+  weight = 300
+
+# Child Item: Whole Year Puzzle
+[[main]]
+  name = "Whole Year Puzzle"
+  parent = "puzzles"
+  url = "https://yearpuzzle.michelleyap.ca"
+  weight = 100
+
 # [[main]]
 #   name = "CV"
 #   url = "/cv"
