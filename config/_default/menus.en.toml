@@ -48,10 +48,10 @@
   url = "https://yearpuzzle.michelleyap.ca"
   weight = 100
 
-# [[main]]
-#   name = "CV"
-#   url = "/cv"
-#   weight = -1
+[[main]]
+  name = "CV"
+  pageRef = "/cv"
+  weight = 400
 
 #[[main]]
 #  name = "example sub-menu 1"

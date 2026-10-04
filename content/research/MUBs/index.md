@@ -1,12 +1,16 @@
 ---
 title: "Investigating the performance of adaptive optics on different bases of spatial modes in turbulent channels"
 date: 2026-01-26
-summary: "In this work, we showed that the use of a fast adaptive optics system in a high-dimensional quantum key distribution setup allows for secure communications even in the presence of significant noise ."
+description: "Comparing how well fast adaptive optics corrects two mutually unbiased bases of spatial modes for high-dimensional QKD through turbulence."
+summary: "In this work, we showed that the use of a fast adaptive optics system in a high-dimensional quantum key distribution setup allows for secure communications even in the presence of significant noise."
+tags: ["Quantum Key Distribution", "Adaptive Optics", "Mutually Unbiased Bases", "Atmospheric Optics"]
+categories: ["Research"]
+showSummary: true
 showAuthor: false
 showDate: true
 showReadingTime: false
 showWordCount: false
-draft: true
+draft: false
 ---
 
 {{< katex >}}

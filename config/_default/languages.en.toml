@@ -16,13 +16,13 @@ title = "Lukas Scarfe"
 
 [params.author]
   name = "Lukas Scarfe"
-  email = "lukasscarfe@gmail.com"
+  email = "lukas.scarfe@gmail.com"
   image = "img/Lukas_Scarfe_Headshot_small.png"
   imageQuality = 96
   headline = "B. Eng in Engineering Physics, M. Sc in Physics"
   bio = "Lukas Scarfe PhD Student in Physics at the University of Ottawa."
   links = [
-    { email = "mailto:lukasscarfe+website@gmail.com" },
+    { email = "mailto:lukas.scarfe@gmail.com" },
     { "google-scholar" = "https://scholar.google.com/citations?user=_eBW18oAAAAJ&hl=en&oi=ao" },
     { github = "https://github.com/lukasscarfe" },
     { linkedin = "https://www.linkedin.com/in/lukas-scarfe-0216b4190/" },

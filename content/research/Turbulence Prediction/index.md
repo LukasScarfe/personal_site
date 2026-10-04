@@ -2,7 +2,7 @@
 title: "Predicting atmospheric turbulence for secure quantum communications in free space"
 date: 2025-03-03
 description: "Training a recurrent neural network, TAROQQO, to forecast turbulence strength using weather data to optimize high-dimensional QKD routing."
-summary: "We present a machine learning approach to forecast atmospheric turbulence ($C_n^2$) up to 12 hours in advance. By predicting channel conditions, we can determine optimal timing for secure key exchange in free-space quantum networks."
+summary: "We present a machine learning approach to forecast atmospheric turbulence (Cₙ²) up to 12 hours in advance. By predicting channel conditions, we can determine optimal timing for secure key exchange in free-space quantum networks."
 tags: ["Atmospheric Turbulence", "Machine Learning", "Quantum Key Distribution", "Time-series Forecasting"]
 categories: ["Research"]
 showSummary: true

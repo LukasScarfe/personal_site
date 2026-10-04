@@ -21,7 +21,7 @@
   <div class="flex flex-col items-center text-sm text-neutral-500 dark:text-neutral-400">
     <div class="flex flex-row items-center">
       <p>
-        &copy; {{ now.Format "2006" }} {{ site.Author.name | default site.Title }}
+        &copy; {{ now.Format "2006" }} {{ site.Params.author.name | default site.Title }}
       </p>
     </div>
     <div class="text-[0.6rem] uppercase tracking-widest opacity-50 mt-1">
