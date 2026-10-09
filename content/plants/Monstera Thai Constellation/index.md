@@ -9,9 +9,9 @@ showAuthor: false
 showWordCount: false
 ---
 
-This is a [Monstera Thai Constellation](https://en.wikipedia.org/wiki/Monstera_deliciosa), a variegated version of the classic Swiss cheese plant. Every leaf is splattered with cream-coloured speckles and patches, which is where the "constellation" name comes from. Unlike a lot of variegated plants, its variegation is stable, so it shouldn't revert back to plain green. It is climbing a pole now, and the newer, bigger leaves are full of the holes and splits that monsteras are famous for.
+This is our [Monstera Thai Constellation](https://en.wikipedia.org/wiki/Monstera_deliciosa). They used to be super expensive, but when we moved to Vancouver, we got this one for 60$ at Costco. It is climbing a x4 now, and the newer, bigger leaves are really sizing up.
 
-{{< plant-facts latin="Monstera deliciosa 'Thai Constellation'" >}}
+{{< plant-facts latin="Monstera deliciosa 'Thai Constellation'" from="Costco, for 60$" since="October, 2025" >}}
 
 ## Growth Timeline
 
@@ -23,7 +23,7 @@ This is a [Monstera Thai Constellation](https://en.wikipedia.org/wiki/Monstera_d
   {{< figure 
       src="feature_2026-10-04.jpg" 
       alt="Large Monstera Thai Constellation with cream-speckled, fenestrated leaves, Gameboy Advance SP for scale" 
-      caption="Huge, speckled, and fenestrated. The Gameboy Advance SP is looking pretty small next to this one." 
+      caption="It ahs grown probably 4 leaves since we bought it and each is better than the last. Gameboy Advance SP for scale." 
   >}}
   {{< /timelineItem >}}
   

@@ -25,7 +25,7 @@ I bought this [ficus elastica](https://en.wikipedia.org/wiki/Ficus_elastica), be
   {{< figure 
       src="feature_2026-10-04.jpg" 
       alt="Tall variegated Ficus Elastica with cream, green and pink leaves, Gameboy Advance SP for scale" 
-      caption="Tall, straight, and full of cream and pink variegated leaves. Gameboy Advance SP for scale." 
+      caption="Feeling good about this plant :). Gameboy Advance SP for scale." 
   >}}
   {{< /timelineItem >}}
 

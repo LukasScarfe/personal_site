@@ -25,7 +25,7 @@ I got cuttings of this [Orchid Cactus](https://en.wikipedia.org/wiki/Epiphyllum)
   {{< figure 
       src="feature_2026-10-04.jpg" 
       alt="Gran's Orchid Cactus with long, wavy green stems spilling out of its pot, Gameboy Advance SP for scale" 
-      caption="Long, wavy stems now arching out of the pot in every direction. Gameboy Advance SP for scale." 
+      caption="It did not flower yet, but it is getting bigger and bigger. Gameboy Advance SP for scale." 
   >}}
   {{< /timelineItem >}}
 

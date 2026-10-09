@@ -9,9 +9,9 @@ showAuthor: false
 showWordCount: false
 ---
 
-Another [Coleus](https://en.wikipedia.org/wiki/Coleus) for the collection. This one has dark burgundy, almost black leaves splattered with bright lime-green speckles, with lime edges along the serrated margins. It is still young, just a single upright stem, so it will need a few rounds of pinching before it bushes out like the [Red Coleus](/plants/red-coleus/).
+Another [Coleus](https://en.wikipedia.org/wiki/Coleus) for the collection. This one has more painted/speckled leaves that I think are beautiful. It came from a pot outside of No Frills in Vancouver at the end of August. It is still young, just a single upright stem, so it will need lots of cutting back before it bushes out like the [Red Coleus](/plants/red-coleus/).
 
-{{< plant-facts latin="Coleus scutellarioides" >}}
+{{< plant-facts latin="Coleus scutellarioides" from="the great outdoors" since="August 2026" >}}
 
 ## Growth Timeline
 
@@ -23,7 +23,7 @@ Another [Coleus](https://en.wikipedia.org/wiki/Coleus) for the collection. This 
   {{< figure 
       src="feature_2026-10-04.jpg" 
       alt="Young Coleus with dark burgundy leaves speckled lime green in a white ribbed pot, Gameboy Advance SP for scale" 
-      caption="Still a single stem, but the colours are already great. Gameboy Advance SP for scale." 
+      caption="Still a single stem, but it is growing fast. Gameboy Advance SP for scale." 
   >}}
   {{< /timelineItem >}}
   

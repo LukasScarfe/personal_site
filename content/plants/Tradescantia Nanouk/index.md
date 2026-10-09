@@ -25,7 +25,7 @@ I don't actually know where this [Tradescantia Nanouk](https://en.wikipedia.org/
   {{< figure 
       src="feature_2026-10-04.jpg" 
       alt="Tradescantia Nanouk with pink, green and purple striped leaves in a green fern-patterned pot, Gameboy Advance SP for scale" 
-      caption="Much fuller, with bright pink and purple stripes. Still a few crispy brown tips here and there. Gameboy Advance SP for scale." 
+      caption="We had to move September 2026, and this one was sent back to cuttings for the move. It is so prolific. Gameboy Advance SP for scale." 
   >}}
   {{< /timelineItem >}}
 
