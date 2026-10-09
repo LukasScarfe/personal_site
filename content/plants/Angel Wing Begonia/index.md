@@ -25,7 +25,7 @@ I got cuttings of this [Angel Wing Begonia](https://en.wikipedia.org/wiki/Cane_b
   {{< figure 
       src="feature_2026-10-04.jpg" 
       alt="Bushy Angel Wing Begonia covered in silver-spotted leaves, Gameboy Advance SP for scale" 
-      caption="We moved for September 1st, 2026 and in order to keep it easy, we had to turn it back into cuttings This is the progress in a few months since moving. No flowers at the moment. Gameboy Advance SP for scale." 
+      caption="We moved for September 1st, 2026 and in order to keep it easy, we had to turn it back into cuttings. This is the progress in a few months since moving. No flowers at the moment. Gameboy Advance SP for scale." 
   >}}
   {{< /timelineItem >}}
 

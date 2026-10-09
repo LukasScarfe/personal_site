@@ -9,7 +9,7 @@ showAuthor: false
 showWordCount: false
 ---
 
-This is our [Monstera Thai Constellation](https://en.wikipedia.org/wiki/Monstera_deliciosa). They used to be super expensive, but when we moved to Vancouver, we got this one for 60$ at Costco. It is climbing a x4 now, and the newer, bigger leaves are really sizing up.
+This is our [Monstera Thai Constellation](https://en.wikipedia.org/wiki/Monstera_deliciosa). They used to be super expensive, but when we moved to Vancouver, we got this one for 60$ at Costco. It is climbing a 2x4 now, and the newer, bigger leaves are really sizing up.
 
 {{< plant-facts latin="Monstera deliciosa 'Thai Constellation'" from="Costco, for 60$" since="October, 2025" >}}
 
@@ -23,7 +23,7 @@ This is our [Monstera Thai Constellation](https://en.wikipedia.org/wiki/Monstera
   {{< figure 
       src="feature_2026-10-04.jpg" 
       alt="Large Monstera Thai Constellation with cream-speckled, fenestrated leaves, Gameboy Advance SP for scale" 
-      caption="It ahs grown probably 4 leaves since we bought it and each is better than the last. Gameboy Advance SP for scale." 
+      caption="It has grown probably 4 leaves since we bought it and each is better than the last. Gameboy Advance SP for scale." 
   >}}
   {{< /timelineItem >}}
   

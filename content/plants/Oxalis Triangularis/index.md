@@ -22,7 +22,7 @@ showWordCount: false
   
   {{< figure 
       src="feature_2026-10-04.jpg" 
-      alt="Green pot of dormant Oxalis with dried stems and a few purple leaf scraps, labelled 'Oxalis', Gameboy Advance SP for scale" 
+      alt="Green pot of sprouting Oxalis with a few stems, labelled 'Oxalis', Gameboy Advance SP for scale" 
       caption="Just started this guy back up. It needs a lot of light so I let it be dormant for the last 9 or so months. It is sending up leaves now. Gameboy Advance SP for scale." 
   >}}
   {{< /timelineItem >}}
