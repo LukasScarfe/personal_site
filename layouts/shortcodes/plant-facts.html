@@ -1,0 +1,7 @@
+{{/* Row of quick facts at the top of a plant page. Every parameter is optional.
+     Usage: {{< plant-facts latin="Ficus elastica" from="Home Depot" since="Winter 2024" >}} */}}
+<dl class="plant-facts not-prose">
+  {{ with .Get "latin" }}<div><dt>Species</dt><dd><em>{{ . }}</em></dd></div>{{ end }}
+  {{ with .Get "from" }}<div><dt>From</dt><dd>{{ . | markdownify }}</dd></div>{{ end }}
+  {{ with .Get "since" }}<div><dt>With us since</dt><dd>{{ . }}</dd></div>{{ end }}
+</dl>

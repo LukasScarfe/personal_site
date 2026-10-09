@@ -1,0 +1,25 @@
+{{/* Side-by-side "then & now" photo comparison for the plant pages.
+     Usage: {{< then-now then="img/2024-06-17.jpg" thenLabel="June 2024" now="feature_2026-10-04.jpg" nowLabel="October 2026" caption="..." >}} */}}
+{{ $panels := slice
+  (dict "src" (.Get "then") "label" (.Get "thenLabel") "tag" "Then")
+  (dict "src" (.Get "now") "label" (.Get "nowLabel") "tag" "Now") }}
+<figure class="then-now not-prose">
+  <div class="then-now-grid">
+    {{ range $panels }}
+      {{ $p := . }}
+      {{ with $.Page.Resources.GetMatch $p.src }}
+        {{ $img := . | images.Filter images.AutoOrient }}
+        <div class="then-now-panel">
+          <img src="{{ ($img.Resize "800x").RelPermalink }}"
+               srcset="{{ ($img.Resize "600x").RelPermalink }} 600w, {{ ($img.Resize "800x").RelPermalink }} 800w"
+               sizes="(min-width: 768px) 360px, 50vw"
+               data-zoom-src="{{ .RelPermalink }}"
+               alt="{{ $.Page.Title }}, {{ $p.label }}"
+               loading="lazy" decoding="async">
+          <span class="then-now-tag">{{ $p.tag }}<span>{{ $p.label }}</span></span>
+        </div>
+      {{ end }}
+    {{ end }}
+  </div>
+  {{ with .Get "caption" }}<figcaption>{{ . | markdownify }}</figcaption>{{ end }}
+</figure>

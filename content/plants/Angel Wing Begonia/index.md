@@ -1,6 +1,6 @@
 ---
 title: "Angel Wing Begonia"
-date: 2026-01-15
+date: 2026-10-04
 summary: "The Angel Wing begonia is a popular hybrid houseplant prized for its striking, asymmetrical leaves that resemble the outstretched wings of an angel. These leaves often feature a deep forest-green color on top with shimmering silver speckles and a vibrant, contrasting burgundy or red underside. Under the right light conditions, the plant produces drooping clusters of delicate waxy flowers in shades ranging from bright white to soft pink."
 showDate: false
 showReadingTime: false
@@ -11,15 +11,29 @@ showWordCount: false
 
 I got cuttings of this [Angel Wing Begonia](https://en.wikipedia.org/wiki/Cane_begonia) from my Grandma in the Summer of '24. We have since cut it up many times and made many plants out of it. This is the first time we are growing it bushy, and it has exploded from just stick cuttings into a bush since our move in August. This plant has some of the most delicate flowers of any plant I have ever seen. If you look at these pink flowers wrong, they will go flying off the plant. Thanks for the cutting Gima :heart:.
 
+{{< plant-facts latin="Begonia (cane hybrid)" from="Cuttings from Grandma" since="Summer 2024" >}}
+
+{{< then-now then="img/2024-06-17.jpg" thenLabel="June 2024" now="feature_2026-10-04.jpg" nowLabel="October 2026" caption="From one small flowering stem to a full bush." >}}
+
 ## Growth Timeline
 
 
 {{< timeline >}}
 
+  {{< timelineItem header="October 2026" >}}
+  
+  {{< figure 
+      src="feature_2026-10-04.jpg" 
+      alt="Bushy Angel Wing Begonia covered in silver-spotted leaves, Gameboy Advance SP for scale" 
+      caption="Big, bushy, and covered in silver polka dots. No flowers at the moment. Gameboy Advance SP for scale." 
+  >}}
+  {{< /timelineItem >}}
+
+
   {{< timelineItem header="January 2026" >}}
   
   {{< figure 
-      src="feature_2026-01-15.jpg" 
+      src="img/2026-01-15.jpg" 
       alt="Flowering Angel Wing Begonia Bush, gameboy for scale" 
       caption="Flowering Angel Wing Begonia Bush, Gameboy Advance SP for scale" 
       width="300px" 
@@ -31,7 +45,7 @@ I got cuttings of this [Angel Wing Begonia](https://en.wikipedia.org/wiki/Cane_b
   
   {{< figure 
       src="img/2024-06-17.jpg" 
-      alt="Gran's Orchid Cactus growing well after recieving the cuttings" 
+      alt="Small flowering Angel Wing Begonia in a gold-striped pot" 
       caption="Small Flowering Angel Wing Begonia" 
       width="300px" 
   >}}
