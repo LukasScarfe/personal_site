@@ -36,17 +36,24 @@
   weight = 200
 
 [[main]]
-  name = "Puzzles"
-  identifier = "puzzles"
+  name = "Games"
+  identifier = "games"
   url = "#"
   weight = 300
 
 # Child Item: Whole Year Puzzle
 [[main]]
   name = "Whole Year Puzzle"
-  parent = "puzzles"
+  parent = "games"
   url = "https://yearpuzzle.michelleyap.ca"
   weight = 100
+
+# Child Item: Clocktower
+[[main]]
+  name = "Clocktower"
+  parent = "games"
+  url = "https://clocktower.lukasscarfe.com"
+  weight = 200
 
 # [[main]]
 #   name = "CV"
